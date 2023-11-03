@@ -1,0 +1,23 @@
+{
+  "name": "first-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rimraf node_modules",
+    "test": "npx hardhat test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@types/chai": "^4.3.9",
+    "@types/mocha": "^10.0.3",
+    "@types/node": "^20.8.10",
+    "chai": "^4.3.10",
+    "hardhat": "^2.19.0",
+    "rimraf": "^5.0.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
