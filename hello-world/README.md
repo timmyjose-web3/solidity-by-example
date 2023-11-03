@@ -1,0 +1,1 @@
+More Solidity exercises (using [Hardhat](https://hardhat.org/) with TypeScript) from the site, [Solidity by Example](https://solidity-by-example.org/).
